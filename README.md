@@ -17,6 +17,17 @@ A solução proposta é criar um sistema de automação de layouts, que permita 
 
 Com a implementação da solução proposta, a empresa SeuBoné pode esperar uma significativa redução no tempo gasto com o processo de layout dos leads, permitindo que os designers possam se concentrar em tarefas mais criativas e estratégicas. Além disso, a automatização do processo pode resultar em uma melhora na qualidade dos layouts, já que o sistema pode ser aperfeiçoado continuamente com base em novos exemplos.
 
+## Layout padrão
+<div>
+  <img width="350" alt="img" src="https://github.com/seubone/Projeto-Tech2/blob/main/img%20(3).jpeg">
+</div>
+
+## Layout com a logomarca sobreposta
+<div>
+  <img width="350" alt="img" src="https://github.com/seubone/Projeto-Tech2/blob/main/img%20(1).jpeg">
+  <img width="350" alt="img" src="https://github.com/seubone/Projeto-Tech2/blob/main/img%20(2).jpeg">
+</div>
+
 Você tem a liberdade de usar qualquer plataforma ou linguagem de programação. Foque em fazer algo funcional e não necessariamente algo bonito esteticamente.
 
 Qualquer dúvida, estou 100% disponível!
